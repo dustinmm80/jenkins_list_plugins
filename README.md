@@ -14,6 +14,12 @@ Inactive plugins are red, outdated plugins are yellow, updated plugins are green
 
 Install by cloning this project and running `go build ./...`.
 
+Then run it, pointing to your Jenkins URL:
+
+```
+./jenkins_list_plugins https://jenkins.myorg.com
+```
+
 ```
 NAME:
    jenkins_list_plugins - List Jenkins plugins in shortname:version format
