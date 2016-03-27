@@ -1,0 +1,20 @@
+{
+	"ImportPath": "github.com/dustinmm80/jenkins_list_plugins",
+	"GoVersion": "go1.6",
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/cli",
+			"Comment": "1.2.0-224-gaca5b04",
+			"Rev": "aca5b047ed14d17224157c3434ea93bf6cdaadee"
+		},
+		{
+			"ImportPath": "github.com/fatih/color",
+			"Comment": "v0.1",
+			"Rev": "1b35f289c47d5c73c398cea8e006b7bcb6234a96"
+		},
+		{
+			"ImportPath": "github.com/shiena/ansicolor",
+			"Rev": "264b0566801533988151a23fc5f75d66d831d6ae"
+		}
+	]
+}
